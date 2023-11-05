@@ -1,1 +1,1 @@
-# its a sample JS app to test 
+# it's a sample JS app to test 
